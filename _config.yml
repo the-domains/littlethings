@@ -1,6 +1,6 @@
 name: littlethings
 favicon: null
-layout_spectrum: 0.3671323014423251
+layout_spectrum: 0
 typography_spectrum: 0.5022022086195648
 title: The Little Things
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7529923233669251
+  brandStrength: 0.75
   lightness: 0.5394956234376878
   saturation: 0.30608658329583704
   rhythmicContrast: 0.07809087634086609
