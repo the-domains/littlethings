@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:a84eec48-a32e-4c19-90f3-b76ad9d40ca6'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T23:00:41.733Z'
-dateModified: '2016-02-11T23:00:32.113Z'
+datePublished: '2016-02-15T03:36:09.437Z'
+dateModified: '2016-02-15T03:36:02.865Z'
 author: []
 title: Why a blog/website about gratitude?
 authors: []
@@ -19,12 +18,13 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-02-11-why-a-blogwebsite-about-gratitude.md
 published: true
+url: why-a-blogwebsite-about-gratitude/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Why a blog/website about gratitude?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16a46d96-3897-4da3-afb8-432fcb1ed55c.png)
+![coffee](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16a46d96-3897-4da3-afb8-432fcb1ed55c.png)
 
 Well here's the thing - I'm a busy person. On a scale from "meh" to "I'M SO LATE AND HAVE HAD SO MANY COFFEE'S TO MAKE UP FOR THE LACK OF SLEEP" it's at about "so much to do, but still enough time for rest". And as a busy person, I don't take enough time to reflect and just be grateful for the little things - at times I don't even find myself being grateful for the big things either!  
 S0 this blog/website is really just a personal thing. I want to stop and take time to give praise to the one who, in His common grace, gives us good things.  
