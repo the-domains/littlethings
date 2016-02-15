@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-15T03:34:23.546Z'
-dateModified: '2016-02-15T03:34:15.160Z'
+datePublished: '2016-02-15T03:37:15.456Z'
+dateModified: '2016-02-15T03:37:10.234Z'
 author: []
 title: Our First Home
+sourcePath: _posts/2016-02-15-our-first-home.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-02-15-our-first-home.md
-published: true
 url: our-first-home/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Our First Home
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/41e99bc9-9477-4308-a5c0-faf0ad07c9d8.png)
+![firsthome](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c039572be134ac5bf3056000876a9247b796213a.png)
 
 We are just about to move out of our first home, and we're quite sad about it. Not to say we aren't happy with where we are going, but we have had a lot of good memories from our time here.  
 This was a home where we started our journey as a married couple. We had people over to share meals with, hosted people from overseas, dealt with big spiders and went to war with the pooping pigeons on our balcony.  
