@@ -1,6 +1,6 @@
 name: littlethings
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.26851
 typography_spectrum: 0.91156
 title: 'The Little Things | Gratitude'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#120606'
     - '#983002'
     - '#fee3b5'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
